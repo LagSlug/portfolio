@@ -21,9 +21,6 @@ function App() {
           My passion for coding and engineering grows with every project, and one of my favorite activities is paired programming.
           I firmly believe that a good engineer learns from their team as much as they contribute.
         </p> 
-        {/* <p style={{ textAlign: 'left', width: '50%', display: 'block' }}>
-          I live in Southern California
-        </p> */}
       </div>
 
       <h2>Projects</h2>
