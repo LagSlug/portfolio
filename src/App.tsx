@@ -16,6 +16,7 @@ function App() {
           <PeriodicTable />
           <div>
             <p>Github: <a href="https://github.com/LagSlug/PeriodicTable-React">https://github.com/LagSlug/PeriodicTable-React</a></p>
+            <p>Demo: <a href="https://lagslug.github.io/PeriodicTable-React/">https://lagslug.github.io/PeriodicTable-React/</a></p>
           </div>
         </div>
       </div>
