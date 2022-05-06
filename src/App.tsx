@@ -9,7 +9,25 @@ function App() {
       <header className="App-header">
         <span className="name">Robert Rooney</span>
       </header>
+      <h2>About Me</h2>
+      <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+        <p style={{ textAlign: 'left', width: '50%', display: 'block' }}>
+          Hi! 👋 I've been a programmer since grade school, I began with GW Basic and an IBM PC compatable. 
+          My first program generated Dungeons &#38; Dragons character sheets. 
+          From there I moved on to Visual Basic, then to Javascript, Perl, PHP, and now NodeJS. 
+          My current focus has been on building React apps that use a significant amount of bespoke backend resources.
+        </p>
+        <p style={{ textAlign: 'left', width: '50%', display: 'block' }}>
+          My passion for coding and engineering grows with every project, and one of my favorite activities is paired programming.
+          I firmly believe that a good engineer learns from their team as much as they contribute.
+        </p> 
+        {/* <p style={{ textAlign: 'left', width: '50%', display: 'block' }}>
+          I live in Southern California
+        </p> */}
+      </div>
 
+      <h2>Projects</h2>
+      {/* Projects */}
       <div style={{ display: 'flex', justifyContent: 'center' }}>
         <div style={{ textAlign: 'center' }}>
           <p>Periodic Table of Elements</p>
